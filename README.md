@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Aritra1122
-- 👀 I’m interested in physics, astronomy, coding and exploration.
-- 🌱 I’m currently doing masters on physics at RKMVERI
-- 💞️ I’m looking to collaborate on a small research project for enhancing my experience in the world of physics.
-- 📫 Mail me at aritrabasak12@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm that.
+## 👋 Hi, I'm Aritra Basak
 
-<!---
-Aritra1122/Aritra1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a physics postgraduate with a deep interest in research and in developing tools that support scientific productivity — whether in **theory**, **experiment**, **phenomenology**, or **automation**.
+
+My academic training included quantum field theory, general relativity, statistical mechanics, and spontaneous symmetry breaking, with MSc project work on electroweak symmetry breaking, the Higgs-Anderson mechanism, superfluidity, and superconductivity.  
+I also maintain an interest in research and have a paper available on [arXiv](https://arxiv.org/abs/2507.21332).
+
+---
+
+### 🔧 Technical Interests & Projects
+
+I'm currently working on:
+
+#### 📚 `bibfixer` (Ongoing Solo Project)  
+An automation pipeline to extract and structure bibliographic references from scientific PDFs or `.bib` files. 
+- Parses raw references using GROBID and enhances them via metadata APIs (arXiv, CrossRef, INSPIRE, etc.)  
+- Handles real-world citation inconsistencies 
+- Improves researcher workflows and citation generation
+- Supports research productivity by eliminating redundant manual citation work.
+
+
+### 💻 Tools & Stack
+
+- **Languages**: Python 
+- **Technologies**: REST APIs, XML, JSON, Pandoc, LaTeX, BibTeX  
+- **Systems**: GROBID, arXiv/CrossRef APIs  
+- **Workflow**: Solo development, research-oriented automation, reproducibility
+
+---
+
+📫 Always open to collaboration or feedback — especially on tools that bridge research and technology.
